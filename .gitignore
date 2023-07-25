@@ -1,0 +1,4 @@
+# Project exclude paths
+/FatDemo/target/
+/HBase-test1/target/
+/ThinDemo/target/
