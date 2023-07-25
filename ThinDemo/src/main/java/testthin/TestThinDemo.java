@@ -11,7 +11,7 @@ import java.sql.ResultSet;
  * @Description: Description
  */
 public class TestThinDemo {
-    //小明3测试
+    //小明2测试
     public static void main(String[] args) throws Exception{
         // 创建链接
         String url = "jdbc:phoenix:thin:url=http://collection:8765;serialization=PROTOBUF";
